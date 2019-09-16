@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Ana Acuña | Lab 1: Initial Personal Website</title>
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" href="styles/styles.css">
 </head>
 <body class="container">
 	<header>
