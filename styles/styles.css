@@ -60,6 +60,7 @@ header h1 {
 header img {
 	position: relative;
 	left: 40px;
+	box-shadow: 5px 5px;
 }
 
 /*	*************************************************
