@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Andrew Thankson | Lab 1: Initial Personal Website</title>
-	<link rel="stylesheet" href="css/styles.css">
+	<link rel="stylesheet" href="styles/styles.css">
 </head>
 
 <body class="container">
