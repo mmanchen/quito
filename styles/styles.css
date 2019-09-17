@@ -59,7 +59,7 @@ header img {
 	left: 40px;
 	box-shadow: 5px 5px;
 	border-radius: 80%;
-	padding-top: 20px;
+	padding-top: 50px;
 }
 
 /*	*************************************************
@@ -78,9 +78,9 @@ aside {
   	padding: 15px;
   	border-radius: 15px;
   	box-shadow: 4px 10px 5px 0px #7D3C98 ;
-  	width:50%;
-  	color: white;
-  	margin-bottom: 100px;
+	width:50%;
+	margin-left:50px;
+  	color:black;
 }
 aside ul {margin-right: 20px;}
 
