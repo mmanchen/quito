@@ -161,7 +161,7 @@ footer {grid-column: 1 / 2;}
 .container {display: grid;
 			 grid-template-columns: 260px 1fr 200px;}
 nav.sub-menus {
-	color: #8A2BE2;
+	color:mediumvioletred;
 	grid-column: 2/4;
 	grid-row: 4/5;
 }
