@@ -126,7 +126,7 @@ nav li {
 .container {
 	margin: 10px auto;
 	width: 90%;
-	max-width: 960px;â€‹
+	max-width: 960px;
 
 	display: grid;
 	grid-template-columns: 260px 1fr 200px;
@@ -163,11 +163,11 @@ footer {grid-column: 1 / 2;}
 nav.sub-menus {
 	color:mediumvioletred;
 	grid-column: 2/4;
-	grid-row: 4/5;
+	grid-row: 3/5;
 }
 nav.main-menu{
 	grid-column: 3/4;
-	grid-row: 1/5;
+	grid-row: 4/5;
 	color:#8A2BE2;
 }
 
