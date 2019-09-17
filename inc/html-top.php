@@ -11,7 +11,7 @@
 	<header>  
 		<a href="index.php">
 		<h1> Barcelona</h1>
-		<img src="images/team.png" alt="Random photo from the internet so this wouldn't be empty">
+		<img src="images/barcelona.jpg.png" alt="Random photo from the internet so this wouldn't be empty">
 		</a>
 	</header>
 
