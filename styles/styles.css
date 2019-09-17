@@ -166,9 +166,16 @@ nav.sub-menus {
 	grid-row: 4/5;
 }
 nav.main-menu{
-	color: red;
 	grid-column: 3/4;
 	grid-row: 1/5;
+	background-color: #4CAF50; /* Green */
+  	border: none;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
 }
 
 nav a {
