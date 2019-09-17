@@ -18,9 +18,9 @@
 
 	<aside>
 		<ul>
-			<li>Best team</li>
-			<li>Best fashion</li>
-			<li>Team Barcelona forever</li>	
+			<li>City in Spain</li>
+			<li>Gaudi Architecture</li>
+			<li>Historic and Trendy</li>	
 		</ul>	
 	</aside>
 
