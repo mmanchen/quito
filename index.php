@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title> Team Barcelona </title>
+	<title> Assignment 2: Smash Website | Team Quito </title>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
 	<script src="js/menu-highlighter.js"></script>
 </head>
