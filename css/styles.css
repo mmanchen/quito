@@ -50,8 +50,11 @@ header a {
 
 header h1 {
 	margin: 0;
+	transform: rotate(-90deg);
     font-size: 1.3em;
   	position: absolute;
+   	top: 115px;
+    left: -95px;
 }
 
 header img {
