@@ -4,7 +4,7 @@
 			<a href="andrew-index.php"> Me </a>
 		</li>
 		<li>
-			<a href="andrew-early.php">Early Days</a>
+			<a href="andrew-early.php">Interests</a>
 		</li>
 		<li>
 			<a href="andrew-college.php">College</a>
