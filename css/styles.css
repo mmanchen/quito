@@ -176,6 +176,10 @@ nav.sub-menus{
 	margin-right:180px;
 }
 
+nav.sub-menus a{
+	color:#663399;
+}
+
 nav.main-menu{
 	color: #663399;
 	grid-column: 3/4;
@@ -185,10 +189,6 @@ nav.main-menu{
 
 }
 nav.main-menu a{
-	float: left;
 	color: #f2f2f2;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-	font-size: 17px;
+
 }
