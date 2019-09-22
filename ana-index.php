@@ -20,9 +20,9 @@
 
 	<aside>
 		<ul>
-			<li>Marketing & Computer Science</li>
+			<li>Marketing major</li>
 			<li>Cat lover</li>
-			<li>Looking for the perfect first tattoo</li>
+			<li>flirting with CS</li>
 		</ul>
 	</aside>
 
