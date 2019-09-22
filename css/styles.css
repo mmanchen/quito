@@ -193,7 +193,7 @@ nav.main-menu{
 }
 nav.main-menu a{
    color: #EE82EE;
-   text-transform: bold;
+   font-weight: bold;
 }
 
 .column {
