@@ -20,8 +20,8 @@
 
 	<aside>
 		<ul>
-			<li>Computer Science Student, University of Rochester</li>
-			<li>Freelance Web Developer</li>
+			<li>Computer Science</li>
+			<li>Freelance</li>
 			<li>Entrepreneur</li>
 		</ul>
 	</aside>

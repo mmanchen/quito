@@ -20,9 +20,9 @@
 
 	<aside>
 		<ul>
-			<li>Marketing student flirting with Computer Science</li>
+			<li>Marketing</li>
 			<li>Cat lover</li>
-			<li>Looking for the perfect first tattoo</li>
+			<li>Flirting with CS</li>
 		</ul>
 	</aside>
 

@@ -7,10 +7,10 @@
 			<a href="andrew-early.php">Early Days</a>
 		</li>
 		<li>
-			<a href="andrew-college.php">College Life</a>
+			<a href="andrew-college.php">College</a>
 		</li>
 		<li>
-			<a href="andrew-future.php"> Future Plans </a>
+			<a href="andrew-future.php"> Future </a>
 		</li>
 	</ul>	
 	</nav>
