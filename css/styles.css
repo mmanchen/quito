@@ -183,7 +183,8 @@ nav.main-menu{
 	grid-row: 1/5;
 	position: fixed;
 	background-color: #663399;
- 	 width: 100%;
+	text-align: center;
+ 	 width: 90%;
  	 height: 50px;
 
 }
