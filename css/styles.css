@@ -196,3 +196,18 @@ nav.main-menu a{
    text-transform: bold;
 }
 
+.column {
+	float: left;
+	width: 450px;
+	padding: 10px;
+	
+	
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+	
+  }
