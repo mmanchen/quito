@@ -156,15 +156,6 @@ footer { grid-column: 2/ 2; }
 /*	*************************************************
 	STATE
 	************************************************* */
-.menu a.is-current {
-	background-color: black;
-	color: white;
-}
-.is-current{
-	background-color: black;
-	color: white;
-
-}
 .container{
 	display:grid;
 	grid-template-columns: 260px 2fr 200px;
@@ -187,6 +178,14 @@ nav.main-menu{
 
 }
 nav.main-menu a{
-	color:black;
+   color: black;
+}
 
+.menu a.is-current {
+	background-color: black;
+	color: white;
+}
+.is-current{
+	background-color: black;
+	color: white;
 }
