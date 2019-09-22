@@ -10,7 +10,7 @@
 
 
 	<header>
-		<a href= "index.php">
+		<a href= "andrew-index.php">
 			<h1> Andrew Thankson </h1>
 			<img src= "images/andrew.jpeg" alt="Andrew">
 		</a>
