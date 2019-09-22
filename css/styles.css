@@ -156,6 +156,14 @@ footer { grid-column: 2/ 2; }
 /*	*************************************************
 	STATE
 	************************************************* */
+.menu a.is-current {
+		background-color: #BA55D3;
+		color: white;
+	}
+.is-current{
+		background-color:#E6E6FA ;
+		color: white;
+	}
 .container{
 	display:grid;
 	grid-template-columns: 260px 2fr 200px;
@@ -182,11 +190,3 @@ nav.main-menu a{
    background-color:#BA55D3
 }
 
-.menu a.is-current {
-	background-color: #BA55D3;
-	color: white;
-}
-.is-current{
-	background-color: #BA55D3 ;
-	color: white;
-}
