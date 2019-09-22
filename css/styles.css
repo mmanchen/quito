@@ -161,7 +161,7 @@ footer { grid-column: 2/ 2; }
 		color: white;
 	}
 .is-current{
-		background-color: black;
+		background-color:#E6E6FA ;
 		color: white;
 	}
 .container{
@@ -176,8 +176,7 @@ nav.sub-menus{
 }
 
 nav.sub-menus a{
-	color: white;
-	background-color: #BA55D3;
+	color:#663399;
 }
 
 nav.main-menu{
