@@ -20,7 +20,7 @@
 
 	<aside>
 		<ul>
-			<li>Marketing major</li>
+			<li>Marketing Major</li>
 			<li>Cat lover</li>
 			<li>flirting with CS</li>
 		</ul>

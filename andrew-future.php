@@ -21,7 +21,7 @@
 	<aside>
 		<ul>
 			<li>Computer Science</li>
-			<li>Freelance</li>
+			<li>Web Developer</li>
 			<li>Entrepreneur</li>
 		</ul>
 	</aside>
