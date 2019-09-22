@@ -10,7 +10,7 @@
 
 
 	<header>
-		<a href= "index.php">
+		<a href= "ana-index.php">
 			<h1> Ana Sofía Acuña </h1>
 			<img src= "images/ana.jpg" alt="Ana">
 		</a>
