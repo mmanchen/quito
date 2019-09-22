@@ -179,12 +179,10 @@ nav.sub-menus a{
 }
 
 nav.main-menu{
-	color: #663399;
 	grid-column: 3/4;
 	grid-row: 1/5;
 	position: fixed;
-	background-color:black;
-	z-index: 9999;
+	background-color: #663399;
  	 width: 100%;
  	 height: 50px;
 
