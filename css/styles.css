@@ -184,7 +184,7 @@ nav.main-menu{
     overflow: hidden;
 
 }
-nav a{
+nav.main-menu a{
 	float: left;
 	color: #f2f2f2;
 	text-align: center;
