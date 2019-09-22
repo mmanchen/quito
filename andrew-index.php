@@ -20,8 +20,8 @@
 
 	<aside>
 		<ul>
-			<li>Computer Science Student</li>
-			<li>Freelance Web Developer</li>
+			<li>Computer Science</li>
+			<li>Web Developer</li>
 			<li>Entrepreneur</li>
 		</ul>
 	</aside>
