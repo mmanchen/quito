@@ -184,10 +184,10 @@ nav.main-menu{
 	color: #663399;
 	grid-column: 3/4;
 	grid-row: 1/5;
-    overflow: hidden;
+	background-color: black;
 
 }
 nav.main-menu a{
-	color: black;
+	color:white;
 
 }
