@@ -10,7 +10,7 @@
 
 
 	<header>
-		<a href= "index.php">
+		<a href= "clara-index.php">
 			<h1> Pancho Peach </h1>
 			<img src= "images/pancho.jpg" alt="Pancho">
 		</a>
