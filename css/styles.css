@@ -183,7 +183,10 @@ nav.main-menu{
 	grid-column: 3/4;
 	grid-row: 1/5;
 	position: fixed;
-    background-color:black;
+	background-color:black;
+	z-index: 9999;
+ 	 width: 100%;
+ 	 height: 50px;
 
 }
 nav.main-menu a{
